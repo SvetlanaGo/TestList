@@ -1,6 +1,6 @@
 # List
 
-<ul class="tree">
+<ul>
   <li>
     <details open>
       <summary>Планеты гиганты</summary>
