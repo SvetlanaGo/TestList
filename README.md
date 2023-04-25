@@ -1,29 +1,29 @@
 # List
 
-<ul> 
-  <ol>
+<ol> 
+  <li>
     <details open>
       <summary>Планеты гиганты</summary>
-      <ul>
-        <ol>
+      <ol>
+        <li>
           <details>
             <summary>Газовые</summary>
-            <ul>
-              <ol>Юпитер</ol>
-              <ol>Сатурн</ol>
-            </ul>
+            <ol>
+              <li>Юпитер</li>
+              <li>Сатурн</li>
+            </ol>
           </details>
-        </ol>
-        <ol>
+        </li>
+        <li>
           <details>
             <summary>Ледяные</summary>
-            <ul>
-              <ol>Уран</ol>
-              <ol>Нептун</ol>
-            </ul>
+            <ol>
+              <li>Уран</li>
+              <li>Нептун</li>
+            </ol>
           </details>
-        </ol>
-      </ul>
+        </li>
+      </ol>
     </details>
-  </ol>
-</ul>
+  </li>
+</ol>
