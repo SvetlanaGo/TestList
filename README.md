@@ -1,6 +1,6 @@
 # List
 
-<ol> 
+<ul> 
   <li>
     <details open>
       <summary>Планеты гиганты</summary>
@@ -26,4 +26,4 @@
       </ol>
     </details>
   </li>
-</ol>
+</ul>
