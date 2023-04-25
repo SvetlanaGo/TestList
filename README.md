@@ -3,62 +3,62 @@
 <ul> 
   <li>
     <details open>
-      <summary>Documentation</summary>
+      <summary><a href="">Documentation</a></summary>
       <ul>
         <li>
           <details>
-            <summary>Mockups</summary>
+            <summary><a href="">Mockups</a></summary>
             <ul>
-              <li>1_TwoNumbersStart</li>
-              <li>2_ThreeNumbersStart</li>
-              <li>3_ManyNumbersStart</li>
-              <li>4_ClientInvalidRequiredField</li>
-              <li>5_ClientInvalidRequiredFieldAfterSubmit</li>
-              <li>6_ClientInvalidRequiredFieldForSelection</li>
-              <li>7_ClientInvalidRequiredFieldForSelectionAfterSubmit</li>
-              <li>8_ClientInvalidTooBigNumber</li>
-              <li>9_ClientInvalidTooSmallNumber</li>
-              <li>10_ClientInvalidCharacters</li>
-              <li>11_ClientInvalidCharactersAllFields</li>
-              <li>12_ClientAlertTooManyNumbers</li>
-              <li>13_ClientInvalidFieldTooManyNumbers</li>
-              <li>14_ClientInvalidFieldTooManyNumbersAfterSubmit</li>
-              <li>15_ValidTwoNumbers</li>
-              <li>16_ValidThreeNumbers</li>
-              <li>17_ValidManyNumbers</li>
-              <li>18_ServerCalculationError</li>
-              <li>19_CalculationFinish</li>
-              <li>20_ExtendedCalculationFinish</li>
+              <li><a href="">1_TwoNumbersStart</a></li>
+              <li><a href="">2_ThreeNumbersStart</a></li>
+              <li><a href="">3_ManyNumbersStart</a></li>
+              <li><a href="">4_ClientInvalidRequiredField</a></li>
+              <li><a href="">5_ClientInvalidRequiredFieldAfterSubmit</a></li>
+              <li><a href="">6_ClientInvalidRequiredFieldForSelection</a></li>
+              <li><a href="">7_ClientInvalidRequiredFieldForSelectionAfterSubmit</a></li>
+              <li><a href="">8_ClientInvalidTooBigNumber</a></li>
+              <li><a href="">9_ClientInvalidTooSmallNumber</a></li>
+              <li><a href="">10_ClientInvalidCharacters</a></li>
+              <li><a href="">11_ClientInvalidCharactersAllFields</a></li>
+              <li><a href="">12_ClientAlertTooManyNumbers</a></li>
+              <li><a href="">13_ClientInvalidFieldTooManyNumbers</a></li>
+              <li><a href="">14_ClientInvalidFieldTooManyNumbersAfterSubmit</a></li>
+              <li><a href="">15_ValidTwoNumbers</a></li>
+              <li><a href="">16_ValidThreeNumbers</a></li>
+              <li><a href="">17_ValidManyNumbers</a></li>
+              <li><a href="">18_ServerCalculationError</a></li>
+              <li><a href="">19_CalculationFinish</a></li>
+              <li><a href="">20_ExtendedCalculationFinish</a></li>
             </ul>
           </details>
         </li>
         <li>
           <details>
-            <summary>Requirements</summary>
+            <summary><a href="">Requirements</a></summary>
             <ul>
-              <li>Software Requirements Specification</li>
+              <li><a href="">Software Requirements Specification</a></li>
             </ul>
           </details>
         </li>
         <li>
           <details>
-            <summary>Diagrams</summary>
+            <summary><a href="">Diagrams</a></summary>
             <ul>
               <li>
                 <details>
-                  <summary>UseCase</summary>
+                  <summary><a href="">UseCase</a></summary>
                   <ul>
-                    <li>Main</li>
-                    <li>General system model</li>
-                    <li>Data visualization</li>
-                    <li>Functional services for the Web-user</li>
-                    <li>General data reception and transmission functions</li>
-                    <li>Functional GCD calculating services</li>
+                    <li><a href="">Main</a></li>
+                    <li><a href="">General system model</a></li>
+                    <li><a href="">Data visualization</a></li>
+                    <li><a href="">Functional services for the Web-user</a></li>
+                    <li><a href="">General data reception and transmission functions</a></li>
+                    <li><a href="">Functional GCD calculating services</a></li>
                     <li>
                       <details>
-                        <summary>FlowOfEvents</summary>
+                        <summary><a href="">FlowOfEvents</a></summary>
                         <ul>
-                          <li>Scenario execution of the GCD calculation program</li>
+                          <li><a href="">Scenario execution of the GCD calculation program</a></li>
                         </ul>
                       </details>
                     </li>
@@ -67,49 +67,49 @@
               </li>
               <li>
                 <details>
-                  <summary>Class</summary>
+                  <summary><a href="">Class</a></summary>
                   <ul>
-                    <li>Application class model</li>
+                    <li><a href="">Application class model</a></li>
                   </ul>
                 </details>
               </li>
               <li>
                 <details>
-                  <summary>Activity</summary>
+                  <summary><a href="">Activity</a></summary>
                   <ul>
-                    <li>Model of GCD calculation activities</li>
+                    <li><a href="">Model of GCD calculation activities</a></li>
                   </ul>
                 </details>
               </li>
               <li>
                 <details>
-                  <summary>State</summary>
+                  <summary><a href="">State</a></summary>
                   <ul>
-                    <li>Model of system states</li>
+                    <li><a href="">Model of system states</a></li>
                   </ul>
                 </details>
               </li>
               <li>
                 <details>
-                  <summary>Sequence</summary>
+                  <summary><a href="">Sequence</a></summary>
                   <ul>
-                    <li>Main event flow (Execution of the GCD calculation program)</li>
+                    <li><a href="">Main event flow (Execution of the GCD calculation program)</a></li>
                   </ul>
                 </details>
               </li>
               <li>
                 <details>
-                  <summary>Component</summary>
+                  <summary><a href="">Component</a></summary>
                   <ul>
-                    <li>Model of system components</li>
+                    <li><a href="">Model of system components</a></li>
                   </ul>
                 </details>
               </li>
               <li>
                 <details>
-                  <summary>Deployment</summary>
+                  <summary><a href="">Deployment</a></summary>
                   <ul>
-                    <li>System deployment model</li>
+                    <li><a href="">System deployment model</a></li>
                   </ul>
                 </details>
               </li>
@@ -118,10 +118,10 @@
         </li>
         <li>
           <details>
-            <summary>ManualTesting</summary>
+            <summary><a href="">ManualTesting</a></summary>
             <ul>
-              <li>TestPlan</li>
-              <li>TestResults</li>
+              <li><a href="">TestPlan</a></li>
+              <li><a href="">TestResults</a></li>
             </ul>
           </details>
         </li>
@@ -130,11 +130,11 @@
   </li>
   <li>
     <details>
-      <summary>Solution</summary>
+      <summary><a href="">Solution</a></summary>
       <ul>
-        <li>GcdCalculator</li>
-        <li>GcdCalculator.Services</li>
-        <li>GcdCalculator.Services.Tests</li>
+        <li><a href="">GcdCalculator</a></li>
+        <li><a href="">GcdCalculator.Services</a></li>
+        <li><a href="">GcdCalculator.Services.Tests</a></li>
       </ul>
     </details>
   </li>
