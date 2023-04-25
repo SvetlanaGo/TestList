@@ -1,5 +1,5 @@
 # List
-style {
+<style>
 .tree{
   --spacing : 1.5rem;
   --radius  : 10px;
@@ -79,7 +79,7 @@ style {
 .tree details[open] > summary::before{
   content : '−';
 }
-}
+</style>
 <ul class="tree">
   <li>
     <details open>
