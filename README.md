@@ -3,21 +3,21 @@
 <ul> 
   <li>
     <details open>
-      <summary><a href="">Documentation</a></summary>
+      <summary><a href="https://github.com/DaniilSokolov050541/CalculatorGCD/tree/main/Documentation">Documentation</a></summary>
       <ul>
         <li>
           <details>
-            <summary><a href="">Mockups</a></summary>
+            <summary><a href="https://github.com/DaniilSokolov050541/CalculatorGCD/tree/main/Documentation/Mockups">Mockups</a></summary>
             <ul>
-              <li><a href="">1_TwoNumbersStart</a></li>
-              <li><a href="">2_ThreeNumbersStart</a></li>
-              <li><a href="">3_ManyNumbersStart</a></li>
-              <li><a href="">4_ClientInvalidRequiredField</a></li>
-              <li><a href="">5_ClientInvalidRequiredFieldAfterSubmit</a></li>
-              <li><a href="">6_ClientInvalidRequiredFieldForSelection</a></li>
-              <li><a href="">7_ClientInvalidRequiredFieldForSelectionAfterSubmit</a></li>
-              <li><a href="">8_ClientInvalidTooBigNumber</a></li>
-              <li><a href="">9_ClientInvalidTooSmallNumber</a></li>
+              <li><a href="">01_TwoNumbersStart</a></li>
+              <li><a href="">02_ThreeNumbersStart</a></li>
+              <li><a href="">03_ManyNumbersStart</a></li>
+              <li><a href="">04_ClientInvalidRequiredField</a></li>
+              <li><a href="">05_ClientInvalidRequiredFieldAfterSubmit</a></li>
+              <li><a href="">06_ClientInvalidRequiredFieldForSelection</a></li>
+              <li><a href="">07_ClientInvalidRequiredFieldForSelectionAfterSubmit</a></li>
+              <li><a href="">08_ClientInvalidTooBigNumber</a></li>
+              <li><a href="">09_ClientInvalidTooSmallNumber</a></li>
               <li><a href="">10_ClientInvalidCharacters</a></li>
               <li><a href="">11_ClientInvalidCharactersAllFields</a></li>
               <li><a href="">12_ClientAlertTooManyNumbers</a></li>
